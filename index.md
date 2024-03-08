@@ -18,3 +18,7 @@ $ git push -u origin master
 ```python
 $ python3 --version
 ```
+
+- [ ] AAA
+- [x] BBB
+- [ ] CCC
